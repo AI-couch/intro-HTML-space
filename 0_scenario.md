@@ -1,4 +1,7 @@
 # Билол 
+комната для встречи 
+https://meet.google.com/tud-bstx-dyu
+ctrl alt T демо экрана
 # Сценарий первого тестового урока (Mentoring)
 
 ## Цель урока
